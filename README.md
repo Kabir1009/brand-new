@@ -1,5 +1,6 @@
 # brand-new
 this is brand new
 
-okay im in...
+..
 cool
+made some changes on thhhhhe html and readme 
